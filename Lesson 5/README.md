@@ -34,7 +34,7 @@ For example, consider string S = CAGCCTA and arrays P, Q such that:
     P[0] = 2    Q[0] = 4
     P[1] = 5    Q[1] = 5
     P[2] = 0    Q[2] = 6
-    ```
+```
 The answers to these M = 3 queries are as follows:
 
 The part of the DNA between positions 2 and 4 contains nucleotides G and C (twice), whose impact factors are 3 and 2 respectively, so the answer is 2.
@@ -54,7 +54,7 @@ For example, given the string S = CAGCCTA and arrays P, Q such that:
     P[0] = 2    Q[0] = 4
     P[1] = 5    Q[1] = 5
     P[2] = 0    Q[2] = 6
-    ```
+```
 the function should return the values [2, 4, 1], as explained above.
 
 Write an efficient algorithm for the following assumptions:
